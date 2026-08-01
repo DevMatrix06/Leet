@@ -15,7 +15,7 @@ public:
             minEnd=min(nums[i],nums[i]+minEnd);
             minsum=min(minsum,minEnd);
         }
-        if(maxsum<0){
+        if(maxsum<0){ //if entire array is -ve then only the first negative element is taken smallest
             return maxsum;
         }
         return max(maxsum,total-minsum);
