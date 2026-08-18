@@ -11,19 +11,35 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        unordered_map<int,int>mp;
-        ListNode *temp=head;
-        int i=0;
+        // unordered_map<int,int>mp;
+        // ListNode *temp=head;
+        // int i=0;
         
+        // while(temp!=NULL){
+        //     mp[i]=temp->val;
+        //     temp=temp->next;
+        //     i++;  
+        // }
+        // int left=0;
+        // int right=i-1;
+        // while(left<right){
+        //     if(mp[left]!=mp[right]){
+        //         return false;
+        //     }
+        //     left++;
+        //     right--;
+        // }
+        // return true;
+        vector<int>v;
+        ListNode* temp=head;
         while(temp!=NULL){
-            mp[i]=temp->val;
+            v.push_back(temp->val);
             temp=temp->next;
-            i++;  
         }
         int left=0;
-        int right=i-1;
+        int right=v.size()-1;
         while(left<right){
-            if(mp[left]!=mp[right]){
+            if(v[left]!=v[right]){
                 return false;
             }
             left++;
