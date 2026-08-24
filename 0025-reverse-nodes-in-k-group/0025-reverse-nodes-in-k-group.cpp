@@ -1,63 +1,38 @@
 class Solution {
 public:
-
-    ListNode* getKthNode(ListNode* temp, int k) {
-        k -= 1;
-
-        while(temp != NULL && k > 0) {
-            k--;
-            temp = temp->next;
-        }
-
-        return temp;
-    }
-
-    ListNode* reverseLinkedList(ListNode* head) {
-        ListNode* prev = NULL;
-        ListNode* temp = head;
-
-        while(temp != NULL) {
-            ListNode* next = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = next;
-        }
-
-        return prev;
-    }
-
     ListNode* reverseKGroup(ListNode* head, int k) {
 
         ListNode* temp = head;
-        ListNode* prevlast = NULL;
+        int count = 0;
 
-        while(temp != NULL) {
-
-            ListNode* kthNode = getKthNode(temp, k);
-
-            if(kthNode == NULL) {
-                if(prevlast) {
-                    prevlast->next = temp;
-                }
-                break;
+        // Check whether k nodes exist
+        while (count< k) {
+            if (temp==NULL) {
+                return head;
             }
 
-            ListNode* nextNode = kthNode->next;
-            kthNode->next = NULL;
-
-            reverseLinkedList(temp);
-
-            if(prevlast == NULL) {
-                head = kthNode;
-            }
-            else {
-                prevlast->next = kthNode;
-            }
-
-            prevlast = temp;
-            temp = nextNode;
+            temp=temp->next;
+            count++;
         }
 
-        return head;
+        // Reverse the remaining groups first
+        ListNode* prevnode=reverseKGroup(temp, k);
+
+        // Reverse current group
+        temp = head;
+        count = 0;
+
+        while (count<k) {
+            ListNode* next = temp->next;
+
+            temp->next = prevnode;
+
+            prevnode = temp;
+            temp = next;
+
+            count++;
+        }
+
+        return prevnode;   
     }
 };
