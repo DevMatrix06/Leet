@@ -26,7 +26,7 @@ public:
                 l2=l2->next;
             }
             temp->next=new ListNode(sum%10);
-            carry=sum/10;
+            carry=sum/10;//sets carry 
             temp=temp->next;
         }
         
