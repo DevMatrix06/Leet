@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DevMatrix06/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DevMatrix06/Leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/DevMatrix06/Leet/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/DevMatrix06/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DevMatrix06/Leet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DevMatrix06/Leet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -99,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/DevMatrix06/Leet/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DevMatrix06/Leet/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
