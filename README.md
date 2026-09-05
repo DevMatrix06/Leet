@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevMatrix06/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DevMatrix06/Leet/tree/master/0007-reverse-integer) |
+| [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevMatrix06/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
