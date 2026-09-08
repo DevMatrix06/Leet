@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DevMatrix06/Leet/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/DevMatrix06/Leet/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
+| [3870-count-commas-in-range](https://github.com/DevMatrix06/Leet/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
