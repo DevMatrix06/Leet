@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DevMatrix06/Leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DevMatrix06/Leet/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
