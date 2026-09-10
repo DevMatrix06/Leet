@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/DevMatrix06/Leet/tree/master/0485-max-consecutive-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
