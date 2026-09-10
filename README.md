@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DevMatrix06/Leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DevMatrix06/Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DevMatrix06/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/DevMatrix06/Leet/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DevMatrix06/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DevMatrix06/Leet/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/DevMatrix06/Leet/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
 | [3870-count-commas-in-range](https://github.com/DevMatrix06/Leet/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/DevMatrix06/Leet/tree/master/0485-max-consecutive-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DevMatrix06/Leet/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/DevMatrix06/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
