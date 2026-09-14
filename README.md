@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevMatrix06/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/DevMatrix06/Leet/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/DevMatrix06/Leet/tree/master/0724-find-pivot-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/DevMatrix06/Leet/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
