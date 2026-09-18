@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/DevMatrix06/Leet/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/DevMatrix06/Leet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevMatrix06/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/DevMatrix06/Leet/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
