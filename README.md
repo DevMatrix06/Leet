@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DevMatrix06/Leet/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/DevMatrix06/Leet/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/DevMatrix06/Leet/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/DevMatrix06/Leet/tree/master/0739-daily-temperatures) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DevMatrix06/Leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DevMatrix06/Leet/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/DevMatrix06/Leet/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/DevMatrix06/Leet/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/DevMatrix06/Leet/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/DevMatrix06/Leet/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
