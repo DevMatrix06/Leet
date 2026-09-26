@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DevMatrix06/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DevMatrix06/Leet/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/DevMatrix06/Leet/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DevMatrix06/Leet/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
 | [3870-count-commas-in-range](https://github.com/DevMatrix06/Leet/tree/master/3870-count-commas-in-range) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DevMatrix06/Leet/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DevMatrix06/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/DevMatrix06/Leet/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/DevMatrix06/Leet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DevMatrix06/Leet/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/DevMatrix06/Leet/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/DevMatrix06/Leet/tree/master/0136-single-number) |
