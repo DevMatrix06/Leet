@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DevMatrix06/Leet/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
+| [1688-count-of-matches-in-tournament](https://github.com/DevMatrix06/Leet/tree/master/1688-count-of-matches-in-tournament) |
 | [3870-count-commas-in-range](https://github.com/DevMatrix06/Leet/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/DevMatrix06/Leet/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/DevMatrix06/Leet/tree/master/1688-count-of-matches-in-tournament) |
 ## Monotonic Stack
 |  |
 | ------- |
