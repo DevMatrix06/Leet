@@ -1,17 +1,23 @@
 class Solution {
 public:
-    bool isMirror(TreeNode* leftTree, TreeNode* rightTree) {
-        if(!leftTree && !rightTree) return true;
-        if(!leftTree || !rightTree) return false;
+    bool check(TreeNode* leftTree, TreeNode* rightTree) {
+        if(leftTree == NULL && rightTree == NULL)
+            return true;
 
-        return leftTree->val == rightTree->val &&
-               isMirror(leftTree->left, rightTree->right) &&
-               isMirror(leftTree->right, rightTree->left);
+        if(leftTree == NULL || rightTree == NULL)
+            return false;
+
+        if(leftTree->val != rightTree->val)
+            return false;
+
+        return check(leftTree->left, rightTree->right) &&
+               check(leftTree->right, rightTree->left);
     }
 
     bool isSymmetric(TreeNode* root) {
-        if(root == NULL) return true;
+        if(root == NULL)
+            return true;
 
-        return isMirror(root->left, root->right);
+        return check(root->left, root->right);
     }
 };
