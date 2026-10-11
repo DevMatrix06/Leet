@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DevMatrix06/Leet/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/DevMatrix06/Leet/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/DevMatrix06/Leet/tree/master/0319-bulb-switcher) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DevMatrix06/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/DevMatrix06/Leet/tree/master/1688-count-of-matches-in-tournament) |
 | [3870-count-commas-in-range](https://github.com/DevMatrix06/Leet/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevMatrix06/Leet/tree/master/3875-construct-uniform-parity-array-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DevMatrix06/Leet/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DevMatrix06/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/DevMatrix06/Leet/tree/master/0709-to-lower-case) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DevMatrix06/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Queue
 |  |
 | ------- |
@@ -247,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DevMatrix06/Leet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevMatrix06/Leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DevMatrix06/Leet/tree/master/0226-invert-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DevMatrix06/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DevMatrix06/Leet/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
